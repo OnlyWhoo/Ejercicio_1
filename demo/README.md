@@ -1,5 +1,5 @@
 ...existing code...
-# Ejercicio Persona - Juan Davi Ortiz
+# Ejercicio Persona - Juan David Ortiz
 
 ## Diagrama de clases (Mermaid)
 
@@ -18,16 +18,16 @@ class Persona {
 }
 
 class p1 {
-  nombre = "Pedro"
-  apellidos = "Pérez"
-  numeroDocumentoIdentidad = "1053121010"
+  nombre = "Samuel"
+  apellidos = "Rengifo"
+  numeroDocumentoIdentidad = "1457893621"
   anoNacimiento = 1998
 }
 
 class p2 {
-  nombre = "Luis"
-  apellidos = "León"
-  numeroDocumentoIdentidad = "1053223344"
+  nombre = "Jhon"
+  apellidos = "Montes"
+  numeroDocumentoIdentidad = "1572364894"
   anoNacimiento = 2001
 }
 
